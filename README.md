@@ -1,5 +1,5 @@
 # ☒CHIP SE01
-<img src="extras/SE01 V0.5.0.JPG" width="300" align="right">
+<img src="extras/SE01 V0.5.0.JPG" width="35%" height="auto" align="right">
 Sensor Module based on the A1454 Digital Hall effect sensor.
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/SE01/).
